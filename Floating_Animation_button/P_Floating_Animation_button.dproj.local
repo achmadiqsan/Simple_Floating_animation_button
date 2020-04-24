@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/21 13:23:56.000.601,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/03 07:23:04.000.900,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 11:01:31.000.086,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/20 06:55:56.000.136,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/24 08:05:48.745,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/24 09:37:48.890,C:\Users\Near\Downloads\Floating_Animation_button\U_Floating_Animation_button.fmx=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/04/24 09:37:48.890,C:\Users\Near\Downloads\Floating_Animation_button\U_Floating_Animation_button.pas=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/24 09:37:55.635,C:\Users\Near\Downloads\Floating_Animation_button\P_Floating_Animation_button.dproj=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
